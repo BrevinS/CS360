@@ -1,0 +1,4 @@
+CS360 LAB5 Check List
+      One demo session for each group; all team members must be present
+          You may run both server and client in the same DIRectory
+      Submit a zip file your server.c and client.c code BEFORE the demo
